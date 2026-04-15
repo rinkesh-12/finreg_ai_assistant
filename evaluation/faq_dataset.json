@@ -1,0 +1,357 @@
+[
+  {
+    "question": "What is an NBFC?",
+    "answer": "A Non-Banking Financial Company (NBFC) is a financial institution registered under the Companies Act that provides banking-like services such as loans, advances, and investments but does not hold a banking license."
+  },
+  {
+    "question": "How are NBFCs different from banks?",
+    "answer": "NBFCs cannot accept demand deposits, do not form part of the payment and settlement system, and do not issue cheques drawn on themselves. Banks, on the other hand, can do all these."
+  },
+  {
+    "question": "Are NBFCs regulated by RBI?",
+    "answer": "Yes, the Reserve Bank of India regulates NBFCs under the RBI Act, 1934, particularly in matters related to deposit-taking, prudential norms, and governance."
+  },
+  {
+    "question": "What is the minimum Net Owned Fund requirement for NBFCs?",
+    "answer": "The minimum Net Owned Fund requirement for NBFCs is ₹10 crore as per the latest guidelines, with some exceptions for certain categories."
+  },
+  
+  {
+    "question": "Are deposits with NBFCs insured by RBI or DICGC?",
+    "answer": "No, deposits placed with NBFCs are not insured under the Deposit Insurance and Credit Guarantee Corporation (DICGC)."
+  },
+  {
+    "question": "What is the maximum interest rate an NBFC can offer on deposits?",
+    "answer": "NBFCs cannot offer an interest rate higher than the ceiling prescribed by RBI, which is currently 12.5% per annum."
+  },
+  {
+    "question": "Do NBFCs follow prudential norms like banks?",
+    "answer": "Yes, NBFCs are required to follow prudential norms related to capital adequacy, provisioning, exposure limits, and asset classification similar to banks."
+  },
+  {
+    "question": "Are NBFCs allowed to issue credit cards?",
+    "answer": "No, NBFCs are not permitted to issue credit cards. This function is reserved for banks."
+  },
+  {
+    "question": "Do NBFCs need credit rating for accepting deposits?",
+    "answer": "Yes, all deposit-taking NBFCs must obtain and maintain a minimum investment-grade credit rating to accept deposits."
+  },
+  {
+    "question": "What happens if an NBFC fails to repay deposits?",
+    "answer": "If an NBFC defaults in repayment, depositors can approach the Company Law Board or consumer courts for relief. RBI does not provide guarantees for NBFC deposits."
+  },
+  {
+    "question": "Can NBFCs be part of payment and settlement systems?",
+    "answer": "No, NBFCs are not allowed to participate in the payment and settlement systems. They also cannot issue cheques drawn on themselves."
+  },
+  {
+    "question": "Do NBFCs require a license from RBI?",
+    "answer": "Yes, NBFCs must obtain a Certificate of Registration from RBI before commencing operations."
+  },
+  {
+    "question": "What is the Capital Adequacy Ratio requirement for NBFCs?",
+    "answer": "NBFCs are required to maintain a minimum Capital to Risk-Weighted Assets Ratio (CRAR) of 15%."
+  },
+  {
+    "question": "Are NBFCs allowed to accept foreign deposits?",
+    "answer": "No, NBFCs are not permitted to accept deposits from foreign citizens or entities."
+  },
+  
+  {
+    "question": "What is a Non-Banking Financial Company (NBFC)?",
+    "answer": "A Non-Banking Financial Company (NBFC) is a company registered under the Companies Act and engaged in the business of loans and advances, acquisition of shares/stocks/bonds/debentures/securities or leasing, hire-purchase, insurance business or chit business as its principal business."
+  },
+  {
+    "question": "What does conducting financial activity as 'principal business' mean?",
+    "answer": "Financial activity as principal business is when a company's financial assets constitute more than 50% of the total assets and income from financial assets constitute more than 50% of the gross income."
+  },
+  {
+    "question": "Who regulates NBFCs in India?",
+    "answer": "NBFCs are regulated by the Reserve Bank of India (RBI) under the Reserve Bank of India Act, 1934 and directions issued thereunder."
+  },
+  {
+    "question": "Can NBFCs accept deposits?",
+    "answer": "Only deposit taking NBFCs, registered with RBI and expressly authorized, can accept deposits subject to prescribed regulations."
+  },
+  {
+    "question": "What are the categories of NBFCs?",
+    "answer": "NBFCs are categorized as Asset Finance Company (AFC), Investment Company (IC), Loan Company (LC), Infrastructure Finance Company, Micro Finance Institution, and others as defined by RBI directions."
+  },
+  {
+    "question": "How can investors check if an NBFC is registered?",
+    "answer": "The registration status of an NBFC can be verified on the RBI website using the list of registered NBFCs published by RBI."
+  },
+  {
+    "question": "Can NBFCs issue credit cards?",
+    "answer": "Only specific NBFCs registered and authorized by RBI are allowed to issue credit cards as per RBI guidelines."
+  },
+  {
+    "question": "How does RBI ensure the financial stability of NBFCs?",
+    "answer": "RBI prescribes prudential norms, conducts periodic inspections, enforces reporting requirements, and issues directives to maintain financial stability among NBFCs."
+  },
+  {
+    "question": "Are NBFCs covered under Deposit Insurance?",
+    "answer": "No, deposits with NBFCs are not insured by the Deposit Insurance and Credit Guarantee Corporation."
+  },
+  {
+    "question": "What action is taken against companies making false claims of RBI regulation?",
+    "answer": "RBI can penalize and take legal action against any company making false claims of being regulated by RBI or registered as an NBFC."
+  },
+  {
+    "question": "How does RBI classify NBFCs under its scale-based regulation framework?",
+    "answer": "The RBI classifies NBFCs into four layers—Base Layer, Middle Layer, Upper Layer, and Top Layer—based on size, activities, and risk parameters."
+  },
+  {
+    "question": "What are the activities prohibited for NBFCs?",
+    "answer": "NBFCs are prohibited from accepting demand deposits, engaging in agricultural, industrial, purchase or sale of goods services, and other activities unless specifically permitted by RBI regulations."
+  },
+  {
+    "question": "What is the process for NBFC registration with RBI?",
+    "answer": "A company must apply to RBI with prescribed forms, meet minimum NOF requirements, and satisfy fit-and-proper criteria for promoters and directors to obtain NBFC registration."
+  },
+  {
+    "question": "What is the minimum Net Owned Fund (NOF) requirement for NBFCs?",
+    "answer": "The minimum NOF required for an NBFC is Rs. 2 crore, with higher limits for certain categories and activities."
+  },
+  {
+    "question": "Can NBFCs provide microfinance loans?",
+    "answer": "NBFC-MFIs, registered with RBI, are allowed to provide microfinance loans in accordance with RBI's regulatory framework for microfinance institutions."
+  },
+  {
+    "question": "Are group companies considered for NBFC classification?",
+    "answer": "Yes, RBI considers all NBFCs within a promoter group for asset size consolidation when determining classification under the scale-based regulatory framework."
+  },
+  {
+    "question": "Can foreign companies register as NBFCs in India?",
+    "answer": "Foreign companies or entities, subject to required approvals and compliance, can register NBFC subsidiaries in India following FDI and RBI norms."
+  },
+  {
+    "question": "What are Core Investment Companies (CIC)?",
+    "answer": "CICs are NBFCs holding at least 90% of net assets in investments in group companies and are regulated separately under RBI directions."
+  },
+  {
+    "question": "What reporting requirements apply to NBFCs?",
+    "answer": "NBFCs must file periodic returns on financials, deposits, exposure norms, and compliance, as specified by RBI under its regulatory framework."
+  },
+  {
+    "question": "What is the liquidity risk management framework for NBFCs?",
+    "answer": "RBI mandates NBFCs to maintain a liquidity risk management policy, including liquidity coverage ratios and stress testing protocols."
+  },
+  {
+    "question": "Can NBFCs undertake insurance or mutual fund distribution?",
+    "answer": "NBFCs may distribute insurance or mutual fund products if authorized and in accordance with RBI and sectoral regulators' guidelines."
+  },
+  {
+    "question": "Are government-owned NBFCs subject to all RBI regulations?",
+    "answer": "Government-owned NBFCs are placed in Base or Middle Layer and are exempted from some regulations applicable to higher layers under RBI's directions."
+  },
+  {
+    "question": "How are complaints against NBFCs handled?",
+    "answer": "Complaints against NBFCs can be filed with RBI or the relevant regulatory authority and are subject to investigation and resolution as per guidelines."
+  },
+  {
+    "question": "What is the role of statutory auditors for NBFCs?",
+    "answer": "Statutory auditors are required to certify the asset size and financial statements of NBFCs annually and submit reports to RBI."
+  },
+  
+  
+  {
+    "question": "Which categories of Non-Banking Financial Companies (NBFCs) do the new Directions apply to?",
+    "answer": "The directions primarily apply to: i) every non-systemically important NBFC not accepting/holding public deposits (NBFC-ND); ii) NBFC-Factor, NBFC-MFI, and NBFC-IFC, all having an asset size of below ₹500 crore. These are collectively referred to as 'applicable NBFCs'."
+  },
+  {
+    "question": "What is the prescribed maximum Leverage Ratio for an applicable NBFC?",
+    "answer": "The leverage ratio of an applicable NBFC (excluding NBFC-MFIs and NBFC-IFCs) shall not be more than 7 at any point of time, effective from March 31, 2015."
+  },
+  {
+    "question": "How should income from non-performing assets (NPAs) be recognized according to the Directions?",
+    "answer": "Income, including interest, discount, hire charges, or lease rentals on NPAs, shall be recognized only when it is actually realized (on a cash basis). Any such income recognized before the asset became non-performing and remaining unrealized must be reversed."
+  },
+  {
+    "question": "What is the income recognition method for dividend income from shares of corporate bodies and units of mutual funds?",
+    "answer": "Income from dividend on shares of corporate bodies and units of mutual funds shall be taken into account on a cash basis."
+  },
+  {
+    "question": "Define a 'Non-Performing Asset' (NPA) for a loan or lease asset.",
+    "answer": "An NPA is a loan asset or lease asset for which interest and/or principal installment has remained overdue for a period of more than 90 days."
+  },
+  {
+    "question": "What is the exposure limit for a single borrower or counterparty for an applicable NBFC?",
+    "answer": "The credit exposure to any single borrower/counterparty shall not exceed 25% of the NBFC’s Tier I capital at any point of time."
+  },
+  {
+    "question": "Under what condition is an NBFC not required to obtain a Certificate of Registration (CoR) from the Reserve Bank?",
+    "answer": "An NBFC is not required to obtain a CoR if it is a company whose principal business is agricultural operations, industrial activity, purchase or sale of goods, or providing services, and is not predominantly engaged in financial activity."
+  },
+  {
+    "question": "What action can be taken against persons or financial companies making a false claim of being regulated by the Reserve Bank?",
+    "answer": "Making a false claim of being regulated by the Reserve Bank of India is a punishable offence and action can be taken against such persons or financial companies under the provisions of the Reserve Bank of India Act, 1934."
+  },
+  {
+    "question": "What are the rules regarding investment through Alternative Investment Funds (AIFs) when calculating the Net Owned Fund (NOF) of an NBFC?",
+    "answer": "The investment by an NBFC in units of AIFs shall be treated as an intangible asset and should be deducted from the Tier I capital for the calculation of NOF."
+  },
+  {
+    "question": "Explain the concept of 'credit concentration risk' as it relates to NBFCs.",
+    "answer": "Credit concentration risk arises from large exposures to a single counterparty or group of counterparties, and the Directions mandate specific exposure ceilings (like the 25% limit for a single borrower) to mitigate this risk."
+  },
+  {
+    "question": "How are NBFC-MFIs and NBFC-IFCs treated differently regarding the Leverage Ratio?",
+    "answer": "The Directions specify that the maximum Leverage Ratio of 7 does not apply to NBFC-MFIs and NBFC-IFCs."
+  },
+  {
+    "question": "Is a Government company, as defined under the Companies Act, 2013, subject to these NBFC Directions?",
+    "answer": "Yes, these Directions shall also apply to a non-banking financial company being a Government company as defined under clause (45) of section 2 of the Companies Act, 2013."
+  },
+  
+  
+  {
+    "question": "What is the maximum deposit amount insured by the DICGC?",
+    "answer": "Each depositor in a bank is insured up to a maximum of ₹ 5,00,000 (Rupees Five Lakhs) for both principal and interest amount held by him in the same right and capacity."
+  },
+  {
+    "question": "Who pays the deposit insurance premium to the DICGC?",
+    "answer": "The deposit insurance premium is borne entirely by the insured bank and not by the depositor."
+  },
+  {
+    "question": "Are deposits in different branches of the same bank insured separately by DICGC?",
+    "answer": "No. The deposits kept in different branches of the same bank are aggregated for the purpose of insurance cover, and a maximum of up to Rupees five lakhs is paid."
+  },
+  {
+    "question": "Does the DICGC insure deposits of the Central or State Governments?",
+    "answer": "No. The DICGC does not insure deposits of foreign Governments or deposits of Central/State Governments."
+  },
+  {
+    "question": "Is the deposit insurance scheme compulsory for banks in India?",
+    "answer": "Yes, the deposit insurance scheme is compulsory, and no bank can withdraw from it."
+  },
+  {
+    "question": "Can the bank deduct the amount of dues payable by the depositor from the insured amount?",
+    "answer": "Yes. Banks have the right to set off their dues from the amount of deposits as on the cut-off date. The deposit insurance is available only after netting of such dues."
+  },
+  {
+    "question": "What if someone operates such a scheme?",
+    "answer": "Any information/grievance relating to such schemes should be given to the police / Economic Offence Wing (EOW) of the concerned State Government or the Ministry of Corporate Affairs. If brought to the notice of the Reserve Bank, the same shall be informed to the concerned State Government authorities."
+  },
+    {
+    "question": "Then who regulates entities that run such schemes?",
+    "answer": "Money Circulation schemes, by whatever name called, are an offence under the Prize Chits and Money Circulation Schemes (Banning) Act, 1978. The Act prohibits any person or individual to promote or conduct any money circulation scheme or enrol as member to its schemes or anyone to participate in it by either receiving or remitting any money in pursuance of such chit or scheme. Contravention of the provisions of this Act, is monitored and dealt with by the State Governments."
+  },
+  {
+    "question": "What are money circulation/Ponzi/multi-level marketing schemes?",
+    "answer": "While some of these terms are not formally defined, generally, the money circulation, multi-level marketing / chain marketing or Ponzi schemes are schemes promising easy or quick money upon enrollment of members. Income under multi-level marketing or pyramid structured schemes do not come from the sale of products they offer as much as from enrolling more and more members from whom hefty subscription fees are taken. It is incumbent upon all members to enroll more members, as a portion of the subscription amounts so collected is distributed among the members at the top of the pyramid. Any break in the chain leads to the collapse of the pyramid, and the members lower in the pyramid are the ones that are affected the most. Ponzi schemes are those schemes that collect money from the public on promises of high returns. As there is no asset creation, money collected from one depositor is paid as returns to the other. Since there is no other activity generating returns, the scheme becomes unviable and impossible for the people running the scheme to meet the promised return or even return the principal amounts collected. The scheme inevitably fails, and the perpetrators disappear with the money."
+  },
+  {
+    "question": "What constitutes Commercial Real Estate exposure?",
+    "answer": "Commercial Real Estate (CRE) would consist of loans to builders/ developers/ others for creation/ acquisition of commercial real estate (such as office building, retail space, multi-purpose commercial premises, multi-tenanted commercial premises, industrial or warehouse space, hotels, land acquisition, development and construction etc.) where the prospects for repayment, or recovery in case of default, would depend primarily on the cash flows generated by the asset by way of lease/rental payments, sale etc. Further, loans for third dwelling unit onwards to an individual will be treated as CRE exposure. Exposure shall also include non-fund based limits."
+  },
+  {
+    "question": "What is the purpose of enacting Protection of Interest of Depositors in Financial Establishments Act by the State Governments?",
+    "answer": "The purpose of enacting this law is to protect the interests of the depositors. The provisions of RBI Act are directed towards enabling RBI to issue prudential regulations that make the financial entities function on sound lines. RBI is a civil body and the RBI Act is a civil Act. Both do not have specific provisions to effect recovery by attachment and sale of assets of the defaulting companies, entities or their officials. It is the State government machinery which can effectively do this. The Protection of Interest of Depositors in Financial Establishments Acts, confers adequate powers on the State Governments to attach and sell assets of the defaulting companies, entities and their officials."
+  },
+  {
+    "question": "What is the minimum investment grade rating for deposit taking NBFCs? When an NBFC’s rating is downgraded, does it have to bring down its level of public deposits immediately or over a period of time?",
+    "answer": "The minimum investment grade credit rating issued by any of the SEBI-registered credit rating agencies for deposit taking NBFCs shall be ‘BBB–‘. In the event of downgrading of credit rating below the minimum specified investment grade rating, the deposit taking NBFC shall stop accepting public deposits and also stop renewing existing deposits with immediate effect, however the existing deposits would be allowed to run off to maturity. The NBFCs shall also report the position within fifteen working days to the Reserve Bank."
+  },
+  {
+    "question": "Who rates deposit taking NBFCs for acceptance of deposit?",
+    "answer": "NBFCs shall obtain credit rating from any of the SEBI-registered credit rating agencies."
+  },
+  {
+    "question": "Is there an Ombudsman for hearing complaints against NBFCs or does the Reserve Bank have any grievance redressal mechanism in place for NBFCs?",
+    "answer": "It is prescribed that the Board of Directors of NBFCs shall lay down the appropriate grievance redressal mechanism within the organisation and such mechanism shall ensure that all disputes arising out of the decisions of the lending institution’s functionaries are heard and disposed of at least at the next higher level. Further, NBFCs (excluding Housing Finance Companies) which are authorised to accept deposits; or have customer interface and an asset size of ₹100 crore & above as on the date of the last audited balance sheet, are covered under Reserve Bank - Integrated Ombudsman Scheme, 2021 (as amended from time to time). In case of grievances against NBFCs, which are covered under RBI Ombudsman Scheme, are not redressed within a period of one month, the customer may approach the Ombudsman through its CMS portal accessible on the link https://cms.rbi.org.in/cms/indexpage.html#eng."
+  },
+  {
+    "question": "Does the Reserve Bank guarantee the repayment of the deposits collected by NBFCs?",
+    "answer": "No. The Reserve Bank does not guarantee repayment of deposits by NBFCs even though they may be authorized to collect deposits. As such, depositors should take informed decisions while placing deposits with an NBFC."
+  },
+  {
+    "question": "What is the maximum tenure for which an NBFC can accept deposits?",
+    "answer": "The maximum tenure for which an NBFC can accept deposits is 60 months."
+  },
+  {
+    "question": "What is the maximum interest rate that an NBFC can offer on deposits?",
+    "answer": "The maximum interest rate that an NBFC can offer on deposits is 12.5% per annum."
+  },
+  {
+    "question": "What is the maximum amount of deposit that an NBFC can accept from a single depositor?",
+    "answer": "An NBFC can accept a maximum deposit of 10% of its owned funds from a single depositor."
+  },
+    {
+    "question": "What action can be taken against persons/financial companies making false claim of being regulated by the Reserve Bank?",
+    "answer": "It is illegal for any person/ entity/ financial company to make a false claim of being regulated by the Reserve Bank to mislead the public to collect deposits and is liable for penal action under the Law. Information in this regard may be forwarded to the nearest office of the Reserve Bank and the Police."
+  },
+  {
+    "question": "What action is taken if financial companies which are lending or making investments as their principal business do not obtain a Certificate of Registration from the Reserve Bank?",
+    "answer": "If companies that are required to be registered with the Reserve Bank as NBFCs, are found to be conducting non-banking financial activity, such as, lending, investment or deposit acceptance as their principal business, without obtaining Certificate of Registration from the Reserve Bank, the same would be treated as contravention of the provisions of the RBI Act, 1934 and would invite penal action viz., penalty or fine or even prosecution in a Court of Law. If members of public come across any entity which undertakes non-banking financial activity but does not figure in the list of authorized NBFCs on the Reserve Bank’s website, they should inform the nearest Regional Office of the Reserve Bank, for appropriate action to be taken for contravention of the provisions of the RBI Act, 1934."
+  },
+  {
+    "question": "What are the different types/categories of NBFCs registered with the Reserve Bank?",
+    "answer": "NBFCs are categorized (a) in terms of the type of liabilities into Deposit and Non-Deposit accepting NBFCs; (b) regulatory structure of NBFCs under Scale Based Regulation into NBFC-Base Layer, NBFC-Middle Layer, NBFC-Upper Layer, and NBFC-Top Layer (as detailed in FAQ no.8 above); and (c) by the kind of activity they conduct. Based on the type of activities they conduct, the different types of NBFCs are as follows: I. Investment and Credit Company (ICC): ICC means any company which is a financial institution carrying on as its principal business - asset finance, the providing of finance whether by making loans or advances or otherwise for any activity other than its own and the acquisition of securities; and is not any other category of NBFCs as defined by the Reserve Bank in any of its Master Directions."
+  },
+  {
+    "question": "Housing Finance Company (HFC)",
+    "answer": "It is an NBFC whose financial assets, in the business of providing finance for housing, constitute at least 60% of its total assets (netted off by intangible assets). Housing finance for this purpose shall mean providing finance as stated at clauses (a) to (k) of Paragraph 4.1.16 of the Master Direction – Non-Banking Financial Company – Housing Finance Company (Reserve Bank) Directions, 2021. Out of the total assets (netted off by intangible assets), not less than 50% should be by way of housing finance for individuals as stated at clauses (a) to (e) of Paragraph 4.1.16 of the aforementioned master directions for HFCs."
+  },
+  {
+    "question": "Does the Reserve Bank regulate all financial companies?",
+    "answer": "No, the Reserve Bank does not regulate all financial companies. Depending upon the nature of activities, the financial companies may fall under the regulatory purview of other Regulators like SEBI, IRDAI, Government, etc. To name a few, the Merchant Banking Companies/Alternative Investment Fund Company/stock-exchanges/stock brokers/sub-brokers are regulated by Securities and Exchange Board of India, and Insurance companies are regulated by Insurance Regulatory and Development Authority. Similarly, Chit Fund Companies are regulated by the respective State Governments and Nidhi Companies are regulated by Ministry of Corporate Affairs, Government of India. Companies that do financial business but are regulated by other regulators are given specific exemption by the Reserve Bank from its regulatory requirements for avoiding duality of regulation. The categories of NBFCs which are exempted from certain provisions of the RBI Act, 1934 are specified in the ‘Master Direction - Exemptions from the provisions of RBI Act, 1934 dated August 25, 2016."
+  },
+  {    
+    "question": "What is the procedure for registration of an NBFC with the Reserve Bank?",
+    "answer": "A company desirous of commencing or carrying on the business of a non-banking financial institution is required to obtain a Certificate of Registration (CoR) from the Reserve Bank under Section 45-IA of the Reserve Bank of India Act, 1934. The application for CoR should be made in the prescribed format (Form A) along with the requisite documents and fee as specified in the Master Direction - Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2021. The application should be submitted to the Regional Office of the Reserve Bank under whose jurisdiction the registered office of the applicant company is located. The Reserve Bank may, after such inquiry as it deems fit, grant or refuse to grant a CoR to the applicant company. The Reserve Bank may also grant a CoR subject to such conditions as it may specify in the certificate."    
+  },
+  {
+    "question": "Is prior written approval of the Reserve Bank required in cases of amalgamation of an NBFC ‘A’, with another NBFC/ entity ‘B’?",
+    "answer": "The NBFCs being amalgamated will require to obtain prior written approval of the Reserve Bank. Depending upon the nature of amalgamation/merger proposal, requisite approvals as per regulations needs to be sought."
+  },
+  {
+    "question": "Is prior written approval of the Reserve Bank required before approaching any Court or Tribunal for seeking orders for merger/ amalgamation involving NBFCs?",
+    "answer": "Yes, prior approval of the Reserve Bank would have to be obtained before approaching any Court or Tribunal seeking orders for merger/ amalgamation involving NBFCs, including all such cases which would ordinarily fall under the scenarios explained in FAQs 84, 85 or 86."
+  },
+  {
+    "question": "Whether LTV of 50% will also apply to lending against units of mutual funds?",
+    "answer": "Loans against units of mutual funds (except units of exclusively debt oriented mutual funds) would attract LTV requirements as applicable to loans against shares. Further, the LTV requirement for loans/ advances against units of exclusively debt-oriented mutual funds may be decided by individual NBFCs in accordance with their loan policy."
+  },
+  {
+    "question": "In terms of the circular ‘Multiple NBFCs in a Group: Classification in Middle Layer’ dated October 11, 2022, total assets of all NBFCs in a group shall be consolidated to determine the threshold for their classification in the Middle Layer under SBR Framework for NBFCs. Will this consolidation of assets apply to unregistered Core Investment Companies (CICs) in the group?",
+    "answer": "No, the group requires to consolidate total assets of only those NBFCs which have been granted Certificate of Registration by the Bank. However, in case unregistered CICs in the group with asset size below ₹100 crore have accessed public funds, the asset size of such CICs shall be consolidated for the above purpose, but it would not change the status of unregistered CICs."
+  },
+  {
+    "question": "What constitutes Commercial Real Estate exposure?",
+    "answer": "Commercial Real Estate (CRE) would consist of loans to builders/ developers/ others for creation/ acquisition of commercial real estate (such as office building, retail space, multi-purpose commercial premises, multi-tenanted commercial premises, industrial or warehouse space, hotels, land acquisition, development and construction etc.) where the prospects for repayment, or recovery in case of default, would depend primarily on the cash flows generated by the asset by way of lease/rental payments, sale etc. Further, loans for third dwelling unit onwards to an individual will be treated as CRE exposure. Exposure shall also include non-fund based limits. Commercial Real Estate – Residential Housing (CRE–RH) is a sub-category of CRE that consist of loans to builders/ developers for residential housing projects (except for captive consumption). Such projects should ordinarily not include non-residential commercial real estate. However integrated housing project comprising of some commercial spaces (e.g., shopping complex, school etc.) can also be specified under CRE-RH, provided that the commercial area in the residential housing project does not exceed 10 percent of the total Floor Space Index (FSI) of the project. In case the FSI of the commercial area in the predominantly residential housing complex exceed the ceiling of 10 percent, the entire loan should be classified as CRE and not CRE-RH"
+  },
+  {
+    "question": "What precautions have to be taken by the public to forewarn themselves about the likelihood of losing money in schemes that offer high rates of interest?",
+    "answer": "Before investing in schemes that promise high rates of return, the depositors/ investors must ensure that the entity offering such returns is registered with one of the Financial Sector Regulators and is authorized to accept funds, whether in the form of deposits or otherwise. Depositors/ investors must generally be circumspect if the interest rates or rates of return on deposits/ investments offered are high. Unless the entity accepting funds is able to earn more than what it promises, the entity will not be able to repay the depositor/ investor as promised. For earning higher returns, the entity will have to take higher risks on the investments it makes. Higher the risk, the more speculative would be its investments on which there can be no assured return. As such, members of public should forewarn themselves that the likelihood of losing money in schemes that offer high rates of interest are more."
+  },
+  {
+    "question": "Who can the Depositor/Investor turn to in case of grievances?",
+    "answer": "The two Charts given at Annex I and Annex II depict the activities and the regulators overseeing the same. Further, The First Schedule of the ‘The Banning of Unregulated Deposit Schemes Act, 2019’ may be referred for the list of regulated deposit schemes. Complaints may hence be addressed to the concerned regulator. If the activity is a banned activity, the aggrieved person can approach the State Police/Economic Offences Wing of the State Police and lodge a suitable complaint."
+  },
+  {
+    "question": "Then who regulates entities that run such schemes?",
+    "answer": "Money Circulation schemes, by whatever name called, are an offence under the Prize Chits and Money Circulation Schemes (Banning) Act, 1978. The Act prohibits any person or individual to promote or conduct any money circulation scheme or enrol as member to its schemes or anyone to participate in it by either receiving or remitting any money in pursuance of such chit or scheme. Contravention of the provisions of this Act, is monitored and dealt with by the State Governments."
+  },
+  {
+    "question": "Is acceptance of money under Money Circulation/Multi-level Marketing/Pyramid structured schemes allowed? Does the Reserve Bank regulates such schemes?",
+    "answer": "No. Acceptance of money under Money Circulation Schemes, by whatever name called, is not allowed as acceptance of money under those schemes is a cognizable offence under the Prize Chit and Money Circulation (Banning) Act, 1978, and are banned. The Reserve Bank has no role in implementation of this Act, except advising and assisting the Central Government in framing the Rules under this Act."
+  },
+  {
+    "question": "hat are money circulation/Ponzi/multi-level marketing schemes?",
+    "answer": "While some of these terms are not formally defined, generally, the money circulation, multi-level marketing / chain marketing or Ponzi schemes are schemes promising easy or quick money upon enrollment of members. Income under multi-level marketing or pyramid structured schemes do not come from the sale of products they offer as much as from enrolling more and more members from whom hefty subscription fees are taken. It is incumbent upon all members to enroll more members, as a portion of the subscription amounts so collected is distributed among the members at the top of the pyramid. Any break in the chain leads to the collapse of the pyramid, and the members lower in the pyramid are the ones that are affected the most. Ponzi schemes are those schemes that collect money from the public on promises of high returns. As there is no asset creation, money collected from one depositor is paid as returns to the other. Since there is no other activity generating returns, the scheme becomes unviable and impossible for the people running the scheme to meet the promised return or even return the principal amounts collected. The scheme inevitably fails, and the perpetrators disappear with the money."
+  },
+  {
+    "question": "If Chit Fund companies are financial entities, why are they not regulated by the Reserve Bank?",
+    "answer": "Chit Fund companies are regulated under the Chit Fund Act, 1982, which is a Central Act, and is implemented by the State Governments. In order to avoid duality of regulation, companies, doing the business of chit, as defined under Section 2(b) of the Chit Funds Act, 1982 are exempted from the provisions of Section 45-IA, 45-IB and 45-IC of the RBI Act, 1934. Thus, chit fund companies are not required to be registered with the Reserve Bank and would be registered and regulated by the State Government under Chit Funds Act, 1982. However, chit fund companies are subject to other provisions under Chapter IIIB of the RBI Act, 1934 and the Reserve Bank has prohibited chit fund companies from accepting deposits from the public in 2009. In case any Chit Fund is accepting public deposits, the Reserve Bank can prosecute such chit funds."
+  },
+  {
+    "question": "Is the conducting of Chit Fund business permissible under law?",
+    "answer": "The chit funds are governed by Chit Funds Act, 1982 which is a Central Act administered by state governments. Those chit funds which are registered under this Act can legally carry on chit fund business."
+  },
+  {
+    "question": "Are Collective Investment Schemes (CIS) regulated by the Reserve Bank?",
+    "answer": "No. CIS are schemes where money is exchanged for units, be it profits, income, produce, property etc. Collective Investment Schemes (CIS) do not fall under the regulatory purview of the Reserve Bank and falls under the regulatory purview of SEBI."
+  }
+
+]
