@@ -6,13 +6,9 @@ python-dotenv
 bs4
 pypdf
 faiss-cpu
-sentence-transformers
 langchain-google-genai 
 google-generativeai
 langchain
-langchain-core
-langchain-community
 langsmith
 huggingface-hub
-beautifulsoup4
 requests
